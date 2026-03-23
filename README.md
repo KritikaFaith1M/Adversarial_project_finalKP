@@ -21,6 +21,13 @@ This project implements a secure framework for auditing Machine Learning model r
 
 ----------------------------------
 
+# WORKFLOW
+
+----------------
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_yz5j23yz5j23yz5j" src="https://github.com/user-attachments/assets/618eb1c9-e07a-4559-8cbc-5a9472e71897" />
+
+-------------------------
 
 # 🚀 Setup & Installation
 1. Environment Setup
