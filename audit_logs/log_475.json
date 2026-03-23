@@ -1,0 +1,14 @@
+{
+    "timestamp": "Mon Mar 23 14:55:03 2026",
+    "image_index": 475,
+    "attack_method": "FGSM",
+    "epsilon": 0.1,
+    "original_label": "horse",
+    "adversarial_label": "bird",
+    "confidence_before": 0.9999226331710815,
+    "confidence_after": 0.5892072319984436,
+    "status": "SUCCESS",
+    "content_hash": "QmfH5Y1Lpg5hahcPDikF2bVJw5iHicakHPLjhHVs11HYKg",
+    "ipfs_url": "https://ipfs.io/ipfs/QmfH5Y1Lpg5hahcPDikF2bVJw5iHicakHPLjhHVs11HYKg",
+    "storage": "IPFS"
+}

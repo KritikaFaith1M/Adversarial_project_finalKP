@@ -2,16 +2,18 @@
 pragma solidity ^0.8.0;
 
 contract AuditNotary {
-    // This list will store all our attack hashes (The CID Hashes)
-    string[] public attackHashes;
 
-    // This function lets us add a new hash to the blockchain
+    string[] public hashes;
+
     function storeHash(string memory _hash) public {
-        attackHashes.push(_hash);
+        hashes.push(_hash);
     }
 
-    // This lets us check how many logs we have saved in total
-    function getAuditCount() public view returns (uint) {
-        return attackHashes.length;
+    function getAuditCount() public view returns (uint256) {
+        return hashes.length;
+    }
+
+    function getHash(uint index) public view returns (string memory) {
+        return hashes[index];
     }
 }

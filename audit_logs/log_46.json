@@ -1,0 +1,14 @@
+{
+    "timestamp": "Mon Mar 23 14:52:14 2026",
+    "image_index": 46,
+    "attack_method": "FGSM",
+    "epsilon": 0.1,
+    "original_label": "truck",
+    "adversarial_label": "deer",
+    "confidence_before": 0.9999942779541016,
+    "confidence_after": 0.7687135934829712,
+    "status": "SUCCESS",
+    "content_hash": "QmQzkjxFZdwS7Cat2hkMdEVyK9YaMxLvf2DaSXFGoir1U4",
+    "ipfs_url": "https://ipfs.io/ipfs/QmQzkjxFZdwS7Cat2hkMdEVyK9YaMxLvf2DaSXFGoir1U4",
+    "storage": "IPFS"
+}

@@ -1,0 +1,14 @@
+{
+    "timestamp": "Mon Mar 23 14:53:38 2026",
+    "image_index": 246,
+    "attack_method": "FGSM",
+    "epsilon": 0.1,
+    "original_label": "deer",
+    "adversarial_label": "frog",
+    "confidence_before": 0.9805001020431519,
+    "confidence_after": 0.5384989380836487,
+    "status": "SUCCESS",
+    "content_hash": "QmdpCGWPYNQz3VyHRfCHSwvTxgmzuovDD2btrtnF7yKHN7",
+    "ipfs_url": "https://ipfs.io/ipfs/QmdpCGWPYNQz3VyHRfCHSwvTxgmzuovDD2btrtnF7yKHN7",
+    "storage": "IPFS"
+}

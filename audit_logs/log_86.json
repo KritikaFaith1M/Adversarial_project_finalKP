@@ -1,0 +1,14 @@
+{
+    "timestamp": "Mon Mar 23 14:52:36 2026",
+    "image_index": 86,
+    "attack_method": "FGSM",
+    "epsilon": 0.1,
+    "original_label": "car",
+    "adversarial_label": "truck",
+    "confidence_before": 0.9999992847442627,
+    "confidence_after": 0.9986690282821655,
+    "status": "SUCCESS",
+    "content_hash": "QmUznAh22nTjdd5UXikrPuBP1qkUQY6DJKFyB5XuHzo3b7",
+    "ipfs_url": "https://ipfs.io/ipfs/QmUznAh22nTjdd5UXikrPuBP1qkUQY6DJKFyB5XuHzo3b7",
+    "storage": "IPFS"
+}
